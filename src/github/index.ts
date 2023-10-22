@@ -70,4 +70,4 @@ class GitHub {
   }
 }
 
-export default new GitHub("unchainedDavid");
+export default new GitHub("ifonso");
